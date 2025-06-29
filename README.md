@@ -23,7 +23,7 @@ I'm a **Software Engineering** student passionate about many aspects of the tech
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge) ![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?logo=opengl&logoColor=white&style=for-the-badge)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge) ![Databricks](https://img.shields.io/badge/-Databricks-EF4223?logo=databricks&logoColor=white&style=for-the-badge) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=for-the-badge) ![PySpark](https://img.shields.io/badge/-PySpark-FF8C00?logo=apache-spark&logoColor=white&style=for-the-badge)  
 
-## 🤝 Ready To Connect?  
+## 🌐 Ready To Connect?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Lam-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamdaniel1/)  
 
 
