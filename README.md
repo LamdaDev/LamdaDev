@@ -26,5 +26,4 @@ I'm a **Software Engineering** student passionate about many aspects of the tech
 ## 🌐 Ready To Connect?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Lam-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamdaniel1/)  
 
-
-Feel free to reach out anytime! 🚀  
+***Thanks for passing by! Feel free to reach out anytime! 🚀***  
