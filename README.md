@@ -11,6 +11,7 @@ I'm a **Software Engineering** student passionate about many aspects of the tech
 - ✨ I am always open to new challenges and ideas! 
 
 ![LamdaDev's Stats](https://github-readme-stats.vercel.app/api?username=LamdaDev&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
 ![LamdaDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LamdaDev&theme=vue-dark&hide_border=false)
 
 ## 🛠️ Languages & Tools  
