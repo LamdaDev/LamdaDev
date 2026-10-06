@@ -3,6 +3,8 @@
 
 I'm a **Software Engineering** student passionate about many aspects of the tech industry. I’m always looking to learn more, share what I know and collaborate on exciting projects!  
 
+[![Daniel's Portfolio](https://custom-icon-badges.demolab.com/badge/Daniel's%20Portfolio-F5F5DC?logo=globe&logoColor=black&style=for-the-badge)](https://lamdadev.github.io/)
+
 ## 🙋‍♂️ About Me 
 - 💻 I enjoy coding most with **Java**, **JavaScript**, **Python**, and **SQL**.
 - 🎓 I currently study at **Concordia University**.
@@ -29,6 +31,6 @@ I'm a **Software Engineering** student passionate about many aspects of the tech
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square) ![Gerrit](https://img.shields.io/badge/-Gerrit-EEEEEE?logo=gerrit&logoColor=black&style=flat-square) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square) ![SonarCloud](https://img.shields.io/badge/-SonarCloud-126ED3?logo=sonarqubecloud&logoColor=white&style=flat-square) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square) ![Agile/Scrum](https://custom-icon-badges.demolab.com/badge/-Agile%2FScrum-009FDA?logo=sync&logoColor=white&style=flat-square)  
 
 ## 🌐 Wanna Connect?  
-[![Daniel's Portfolio](https://custom-icon-badges.demolab.com/badge/Daniel's%20Portfolio-F5F5DC?logo=globe&logoColor=black&style=for-the-badge)](https://lamdadev.github.io/) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Daniel%20Lam-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/lamdaniel1/)  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Daniel%20Lam-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/lamdaniel1/)  
 
 ***Thanks for passing by! Feel free to reach out anytime! 🚀***  
